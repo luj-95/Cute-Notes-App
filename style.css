@@ -1,0 +1,148 @@
+#remove{
+    color:blue;
+     background-color:pink; 
+    padding: 5px;
+    border: 3px solid rgb(114, 54, 74);
+    
+}
+#x{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+#k{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+#j{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+#n{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+mark{
+    background-color: crimson;
+    color: black;
+}
+del{
+  
+    color: blueviolet;
+}
+
+h1{
+   color: blue;
+   text-align: center;
+   text-shadow: rgba(red, green, blue, alpha);
+   font-size: 43px;
+}
+img{
+    size: 25px;
+    text-align: center;
+    position: static;
+    border: 3px solid palevioletred;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+    
+}
+#imag{
+    border: 3px solid palevioletred;
+    background-color: pink;
+}
+body{
+    background-color: lightblue;
+}
+#add{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+#type{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+.removMe{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+.love{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+.reset{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+.dele{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+.ourNote{
+    font-size: 19px;
+    color: rgb(114, 54, 74);
+}
+
+#first{
+    color: blue;
+}
+
+#second{
+    color: blue;
+}
+
+.a{
+   color: rgb(114, 54, 74);
+}
+
+.b{
+    color: rgb(114, 54, 74);
+}
+
+#h{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+#last{
+    color:blue;
+    background-color:pink; 
+   padding: 5px;
+   border: 3px solid rgb(114, 54, 74);
+}
+
+#third{
+    color: blue;
+}
+
+.me{
+    color: rgb(114, 54, 74);
+}
